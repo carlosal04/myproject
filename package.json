@@ -1,0 +1,29 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "This is an example project using, Node JS and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosal04/myproject.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "JavaScript",
+    "Mongo",
+    "MongoDB"
+  ],
+  "author": "Carlos Alberto Garcia Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosal04/myproject/issues"
+  },
+  "homepage": "https://github.com/carlosal04/myproject#readme",
+  "dependencies": {
+    "mongodb": "^3.3.1"
+  }
+}
